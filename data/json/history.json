@@ -1,1 +1,4730 @@
-[]
+[
+    {
+        "_": "Gift",
+        "id": 5170145012310081615,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQWR7_MtgGgSVJc9bfzMSGsAAJ8GwACkoTYS_itxFzPIpm1HgQ",
+            "file_unique_id": "AgADfBsAApKE2Es",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 25528,
+            "date": "2022-08-16 13:59:49",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "💝",
+            "set_name": "RestrictedEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRBZHv8y2AaBJUlz1t_MxIawAAnwbAAKShNhL-K3EXM8imbUACAEAB20ABx4E",
+                    "file_unique_id": "AgADfBsAApKE2Es",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6244
+                }
+            ]
+        },
+        "price": 15,
+        "convert_price": 13,
+        "is_limited": false,
+        "is_sold_out": false,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5170233102089322756,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQZdscEskZHvDjtrx0e60FLAAKtVAACmj_pSnvPkDQv_sivHgQ",
+            "file_unique_id": "AgADrVQAApo_6Uo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 51240,
+            "date": "2024-09-07 17:07:10",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🧸",
+            "set_name": "RestrictedEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRBl2xwSyRke8OO2vHR7rQUsAAq1UAAKaP-lKe8-QNC_-yK8ACAEAB20ABx4E",
+                    "file_unique_id": "AgADrVQAApo_6Uo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5282
+                }
+            ]
+        },
+        "price": 15,
+        "convert_price": 13,
+        "is_limited": false,
+        "is_sold_out": false,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5170250947678437525,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkR6H5lvJdzJf_Y-gR4HMtMPAAKNSAACsU84SMuB4ge7V_wGHgQ",
+            "file_unique_id": "AgADjUgAArFPOEg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 10199,
+            "date": "2023-12-23 20:38:00",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "AnimatedAsianEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRHofmW8l3Ml_9j6BHgcy0w8AAo1IAAKxTzhIy4HiB7tX_AYACAEAB20ABx4E",
+                    "file_unique_id": "AgADjUgAArFPOEg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5010
+                }
+            ]
+        },
+        "price": 25,
+        "convert_price": 21,
+        "is_limited": false,
+        "is_sold_out": false,
+        "is_birthday": true
+    },
+    {
+        "_": "Gift",
+        "id": 5168103777563050263,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSpbDRMqd70eiR4Nc9eJTGMAAJxGQAC1P-BS9CYmaAv74KEHgQ",
+            "file_unique_id": "AgADcRkAAtT_gUs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 48324,
+            "date": "2022-08-07 21:01:02",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🌹",
+            "set_name": "RestrictedEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRKlsNEyp3vR6JHg1z14lMYwAAnEZAALU_4FL0JiZoC_vgoQACAEAB20ABx4E",
+                    "file_unique_id": "AgADcRkAAtT_gUs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4052
+                }
+            ]
+        },
+        "price": 25,
+        "convert_price": 21,
+        "is_limited": false,
+        "is_sold_out": false,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5170144170496491616,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRKgWxmcjYXNkj1_m2S7zrgAAKBGAAClZ-JSmrGT5kBZFDGHgQ",
+            "file_unique_id": "AgADgRgAApWfiUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 19679,
+            "date": "2022-07-15 15:54:17",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎂",
+            "set_name": "RestrictedEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeREqBbGZyNhc2SPX-bZLvOuAAAoEYAAKVn4lKasZPmQFkUMYACAEAB20ABx4E",
+                    "file_unique_id": "AgADgRgAApWfiUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5168
+                }
+            ]
+        },
+        "price": 50,
+        "convert_price": 43,
+        "is_limited": false,
+        "is_sold_out": false,
+        "is_birthday": true
+    },
+    {
+        "_": "Gift",
+        "id": 5170314324215857265,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkS_J8tFC5aYrBuK5LYUI6XwAALeJQACRSDgSsjmE6AUz0NeHgQ",
+            "file_unique_id": "AgAD3iUAAkUg4Eo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 48433,
+            "date": "2023-02-02 19:34:29",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "💐",
+            "set_name": "RestrictedEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRL8ny0ULlpisG4rkthQjpfAAAt4lAAJFIOBKyOYToBTPQ14ACAEAB20ABx4E",
+                    "file_unique_id": "AgAD3iUAAkUg4Eo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6932
+                }
+            ]
+        },
+        "price": 50,
+        "convert_price": 43,
+        "is_limited": false,
+        "is_sold_out": false,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5170564780938756245,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRN-j9x88qjaOPL-eoSFhWGAALLGwAC14mRSzvrMNfF90DPHgQ",
+            "file_unique_id": "AgADyxsAAteJkUs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 55268,
+            "date": "2022-08-09 04:40:41",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🚀",
+            "set_name": "RestrictedEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRE36P3HzyqNo48v56hIWFYYAAssbAALXiZFLO-sw18X3QM8ACAEAB20ABx4E",
+                    "file_unique_id": "AgADyxsAAteJkUs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5538
+                }
+            ]
+        },
+        "price": 50,
+        "convert_price": 43,
+        "is_limited": false,
+        "is_sold_out": false,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5168043875654172773,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTgeg0w_ujEmFw3AlgEzsaGAAKZGwACzagQS38R6izkF899HgQ",
+            "file_unique_id": "AgADmRsAAs2oEEs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 60319,
+            "date": "2022-07-27 19:43:22",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🏆",
+            "set_name": "RestrictedEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeROB6DTD-6MSYXDcCWATOxoYAApkbAALNqBBLfxHqLOQXz30ACAEAB20ABx4E",
+                    "file_unique_id": "AgADmRsAAs2oEEs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4546
+                }
+            ]
+        },
+        "price": 100,
+        "convert_price": 85,
+        "is_limited": false,
+        "is_sold_out": false,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5170690322832818290,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSH2B8Uwt_Bpf_RM4xs0x6XAALoTwACJx74Ss1NNn7ovmieHgQ",
+            "file_unique_id": "AgAD6E8AAice-Eo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 61230,
+            "date": "2024-09-09 14:11:21",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "💍",
+            "set_name": "RestrictedEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRIfYHxTC38Gl_9EzjGzTHpcAAuhPAAInHvhKzU02fui-aJ4ACAEAB20ABx4E",
+                    "file_unique_id": "AgAD6E8AAice-Eo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4672
+                }
+            ]
+        },
+        "price": 100,
+        "convert_price": 85,
+        "is_limited": false,
+        "is_sold_out": false,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5170521118301225164,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSQyPC_8pI5lhpTqW_Jwy39AAIbHgACQEjwS6XKX-OK2k1MHgQ",
+            "file_unique_id": "AgADGx4AAkBI8Es",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 47932,
+            "date": "2022-08-18 03:14:39",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "💎",
+            "set_name": "RestrictedEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRJDI8L_ykjmWGlOpb8nDLf0AAhseAAJASPBLpcpf44raTUwACAEAB20ABx4E",
+                    "file_unique_id": "AgADGx4AAkBI8Es",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3784
+                }
+            ]
+        },
+        "price": 100,
+        "convert_price": 85,
+        "is_limited": false,
+        "is_sold_out": false,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6028601630662853006,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQfYh_Cuqljg-OE3C_cx1_zAALXGAACy0WJSqKYQ7cuIwaJHgQ",
+            "file_unique_id": "AgAD1xgAAstFiUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 42245,
+            "date": "2022-07-15 15:54:20",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🍾",
+            "set_name": "RestrictedEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRB9iH8K6qWOD44TcL9zHX_MAAtcYAALLRYlKophDty4jBokACAEAB20ABx4E",
+                    "file_unique_id": "AgAD1xgAAstFiUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3542
+                }
+            ]
+        },
+        "price": 50,
+        "convert_price": 43,
+        "is_limited": false,
+        "is_sold_out": false,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5902339509239940491,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRxGUqWR9GXjoMmLdurbxu1AALgfAACtW7hSR5XKE-AY3epHgQ",
+            "file_unique_id": "AgAD4HwAArVu4Uk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 32618,
+            "date": "2025-06-01 21:36:10",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRHEZSpZH0ZeOgyYt26tvG7UAAuB8AAK1buFJHlcoT4Bjd6kACAEAB20ABx4E",
+                    "file_unique_id": "AgAD4HwAArVu4Uk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5510
+                }
+            ]
+        },
+        "first_sale_date": "2025-06-01 21:49:47",
+        "last_sale_date": "2025-06-01 21:53:38",
+        "price": 5000,
+        "convert_price": 4250,
+        "available_amount": 0,
+        "total_amount": 10000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5898012527257715797,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkT8xLqwP1OdvZeHA8Y4gRMEAAIpfgAC7A7YSZrXHK9HwNAdHgQ",
+            "file_unique_id": "AgADKX4AAuwO2Ek",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 60972,
+            "date": "2025-06-01 01:10:13",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRPzEurA_U529l4cDxjiBEwQAAil-AALsDthJmtccr0fA0B0ACAEAB20ABx4E",
+                    "file_unique_id": "AgADKX4AAuwO2Ek",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4372
+                }
+            ]
+        },
+        "first_sale_date": "2025-06-01 01:25:17",
+        "last_sale_date": "2025-06-01 06:34:45",
+        "price": 75,
+        "convert_price": 64,
+        "available_amount": 0,
+        "total_amount": 500000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5900177027566142759,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkS3LaIaE6q0einEL-3ZBMUhAALJcQACTLTgSRE6N8YZIf4BHgQ",
+            "file_unique_id": "AgADyXEAAky04Ek",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 59226,
+            "date": "2025-06-01 01:10:13",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRLctohoTqrR6KcQv7dkExSEAAslxAAJMtOBJETo3xhkh_gEACAEAB20ABx4E",
+                    "file_unique_id": "AgADyXEAAky04Ek",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3280
+                }
+            ]
+        },
+        "first_sale_date": "2025-06-01 01:25:17",
+        "last_sale_date": "2025-06-01 06:23:07",
+        "price": 100,
+        "convert_price": 85,
+        "available_amount": 0,
+        "total_amount": 350000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5897607679345427347,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkREs9ZejX49E5Ia--0yDaxWAALRbAACzhPgSQAByqaUHjtZCB4E",
+            "file_unique_id": "AgAD0WwAAs4T4Ek",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 58669,
+            "date": "2025-06-01 01:10:13",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRESz1l6Nfj0Tkhr77TINrFYAAtFsAALOE-BJAAHKppQeO1kIAAgBAAdtAAceBA",
+                    "file_unique_id": "AgAD0WwAAs4T4Ek",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6674
+                }
+            ]
+        },
+        "first_sale_date": "2025-06-01 01:25:16",
+        "last_sale_date": "2025-06-01 02:02:30",
+        "price": 150,
+        "convert_price": 128,
+        "available_amount": 0,
+        "total_amount": 250000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5830323722413671504,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkR5Wrq92Bg6mREGOLEQpK1uAAJ8egAC7JnoSFRGaaQSCYFJHgQ",
+            "file_unique_id": "AgADfHoAAuyZ6Eg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 45951,
+            "date": "2025-05-08 23:28:56",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRHlaur3YGDqZEQY4sRCkrW4AAnx6AALsmehIVEZppBIJgUkACAEAB20ABx4E",
+                    "file_unique_id": "AgADfHoAAuyZ6Eg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5868
+                }
+            ]
+        },
+        "first_sale_date": "2025-05-08 23:37:35",
+        "last_sale_date": "2025-05-15 11:57:27",
+        "price": 100,
+        "convert_price": 85,
+        "available_amount": 0,
+        "total_amount": 500000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5832325860073407546,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkR1wY-bK3sFehcHY3voCR6dAAL2bAACPgAB6UjiDNFrZ9UxCB4E",
+            "file_unique_id": "AgAD9mwAAj4AAelI",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 54349,
+            "date": "2025-05-08 23:28:56",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRHXBj5srewV6Fwdje-gJHp0AAvZsAAI-AAHpSOIM0Wtn1TEIAAgBAAdtAAceBA",
+                    "file_unique_id": "AgAD9mwAAj4AAelI",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6824
+                }
+            ]
+        },
+        "first_sale_date": "2025-05-08 23:37:35",
+        "last_sale_date": "2025-05-15 09:35:28",
+        "price": 150,
+        "convert_price": 128,
+        "available_amount": 0,
+        "total_amount": 250000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5830340739074097859,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRWRX4AARd_i9uXmUy-A7iGFgACZHMAAn0z6Ei_VwhRU2dIDB4E",
+            "file_unique_id": "AgADZHMAAn0z6Eg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 45220,
+            "date": "2025-05-08 23:28:57",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRFZFfgABF3-L25eZTL4DuIYWAAJkcwACfTPoSL9XCFFTZ0gMAAgBAAdtAAceBA",
+                    "file_unique_id": "AgADZHMAAn0z6Eg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5128
+                }
+            ]
+        },
+        "first_sale_date": "2025-05-08 23:37:35",
+        "last_sale_date": "2025-05-17 21:13:48",
+        "price": 300,
+        "convert_price": 255,
+        "available_amount": 0,
+        "total_amount": 150000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5807641025165919973,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQuGWi4nTjdJnKOn7FSXL4rAAKsdAACa0KYSCJ1DTLHR6RQHgQ",
+            "file_unique_id": "AgADrHQAAmtCmEg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 38460,
+            "date": "2025-05-01 01:20:04",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRC4ZaLidON0mco6fsVJcvisAAqx0AAJrQphIInUNMsdHpFAACAEAB20ABx4E",
+                    "file_unique_id": "AgADrHQAAmtCmEg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6512
+                }
+            ]
+        },
+        "first_sale_date": "2025-05-01 01:12:36",
+        "last_sale_date": "2025-05-06 17:21:43",
+        "price": 100,
+        "convert_price": 85,
+        "available_amount": 0,
+        "total_amount": 500000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5773668482394620318,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkT3b-knag_Q-YCIRPONbRjzAAIFbwACMgMhSMwfKox4xrmmHgQ",
+            "file_unique_id": "AgADBW8AAjIDIUg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 60018,
+            "date": "2025-04-19 20:04:58",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRPdv6SdqD9D5gIhE841tGPMAAgVvAAIyAyFIzB8qjHjGuaYACAEAB20ABx4E",
+                    "file_unique_id": "AgADBW8AAjIDIUg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4374
+                }
+            ]
+        },
+        "first_sale_date": "2025-04-19 21:21:47",
+        "last_sale_date": "2025-04-20 15:07:27",
+        "price": 200,
+        "convert_price": 170,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 180000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5773725897517433693,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTfChjscmhZ9sy_od79h9ozAAKEdQACA7ohSH6d9EcIQkgqHgQ",
+            "file_unique_id": "AgADhHUAAgO6IUg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 64438,
+            "date": "2025-04-19 20:04:58",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRN8KGOxyaFn2zL-h3v2H2jMAAoR1AAIDuiFIfp30RwhCSCoACAEAB20ABx4E",
+                    "file_unique_id": "AgADhHUAAgO6IUg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7750
+                }
+            ]
+        },
+        "first_sale_date": "2025-04-19 21:21:47",
+        "last_sale_date": "2025-04-20 19:11:40",
+        "price": 150,
+        "convert_price": 128,
+        "available_amount": 0,
+        "total_amount": 250000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5773791997064119815,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQzDLmd8WeLEfC9-uExKTPpAAIFpQACTxYoSMEYlZovE4vRHgQ",
+            "file_unique_id": "AgADBaUAAk8WKEg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 65445,
+            "date": "2025-04-20 12:05:07",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRDMMuZ3xZ4sR8L364TEpM-kAAgWlAAJPFihIwRiVmi8Ti9EACAEAB20ABx4E",
+                    "file_unique_id": "AgADBaUAAk8WKEg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7788
+                }
+            ]
+        },
+        "first_sale_date": "2025-04-19 21:21:46",
+        "last_sale_date": "2025-04-20 15:11:53",
+        "price": 75,
+        "convert_price": 64,
+        "available_amount": 0,
+        "total_amount": 500000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6042113507581755979,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQsA5VxcAJYBqb0B03bWJS3AAIihQACTcnYS8J1RcHtaBHIHgQ",
+            "file_unique_id": "AgADIoUAAk3J2Es",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 38897,
+            "date": "2025-04-12 23:45:15",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRCwDlXFwAlgGpvQHTdtYlLcAAiKFAAJNydhLwnVFwe1oEcgACAEAB20ABx4E",
+                    "file_unique_id": "AgADIoUAAk3J2Es",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6332
+                }
+            ]
+        },
+        "first_sale_date": "2025-04-12 23:54:32",
+        "last_sale_date": "2025-04-15 20:45:00",
+        "price": 200,
+        "convert_price": 170,
+        "available_amount": 0,
+        "total_amount": 180000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6005797617768858105,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRKHHXge_gBOGVToJvxzOjGAAKJcwACogABWUvBxiriUYfogR4E",
+            "file_unique_id": "AgADiXMAAqIAAVlL",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 37019,
+            "date": "2025-04-01 01:23:03",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeREocdeB7-AE4ZVOgm_HM6MYAAolzAAKiAAFZS8HGKuJRh-iBAAgBAAdtAAceBA",
+                    "file_unique_id": "AgADiXMAAqIAAVlL",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4736
+                }
+            ]
+        },
+        "first_sale_date": "2025-04-01 01:57:54",
+        "last_sale_date": "2025-04-01 02:31:16",
+        "price": 5000,
+        "convert_price": 4250,
+        "available_amount": 0,
+        "total_amount": 7000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6005659564635063386,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkS5i54LEvZ-IRgkegbBiu7qAAJxaAACnPZYS7wlci0LwHnMHgQ",
+            "file_unique_id": "AgADcWgAApz2WEs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 59012,
+            "date": "2025-04-01 01:23:03",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRLmLngsS9n4hGCR6BsGK7uoAAnFoAAKc9lhLvCVyLQvAecwACAEAB20ABx4E",
+                    "file_unique_id": "AgADcWgAApz2WEs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 8648
+                }
+            ]
+        },
+        "first_sale_date": "2025-04-01 01:57:47",
+        "last_sale_date": "2025-04-01 11:56:46",
+        "price": 300,
+        "convert_price": 255,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 100000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6005880141270483700,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTiGYmYYG5idrjSk8Ta6mWRAALnZAACV_VYS9FC7qm-nhQAAR4E",
+            "file_unique_id": "AgAD52QAAlf1WEs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 30040,
+            "date": "2025-04-01 01:23:03",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeROIZiZhgbmJ2uNKTxNrqZZEAAudkAAJX9VhL0ULuqb6eFAAJAQAHbQAHHgQ",
+                    "file_unique_id": "AgAD52QAAlf1WEs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7162
+                }
+            ]
+        },
+        "first_sale_date": "2025-04-01 01:57:59",
+        "last_sale_date": "2025-04-03 19:33:47",
+        "price": 200,
+        "convert_price": 170,
+        "available_amount": 0,
+        "total_amount": 150000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6006064678835323371,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSgaIQaq4Dj50iXGzDY6-UmAAIufAACKAZZS4mm_cKGueWIHgQ",
+            "file_unique_id": "AgADLnwAAigGWUs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 45712,
+            "date": "2025-04-01 01:23:03",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRKBohBqrgOPnSJcbMNjr5SYAAi58AAIoBllLiab9woa55YgACAEAB20ABx4E",
+                    "file_unique_id": "AgADLnwAAigGWUs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6984
+                }
+            ]
+        },
+        "first_sale_date": "2025-04-01 01:57:58",
+        "last_sale_date": "2025-04-03 18:44:26",
+        "price": 100,
+        "convert_price": 85,
+        "available_amount": 0,
+        "total_amount": 300000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6005564615793050414,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRIW8iwHM0VyMobo42UfLkAA1FtAALJ8FhLrA7iVJD1FzEeBA",
+            "file_unique_id": "AgADUW0AAsnwWEs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 28643,
+            "date": "2025-04-01 01:23:03",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeREhbyLAczRXIyhujjZR8uQADUW0AAsnwWEusDuJUkPUXMQAIAQAHbQAHHgQ",
+                    "file_unique_id": "AgADUW0AAsnwWEs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6826
+                }
+            ]
+        },
+        "first_sale_date": "2025-04-01 01:57:50",
+        "last_sale_date": "2025-04-01 17:49:40",
+        "price": 50,
+        "convert_price": 43,
+        "available_amount": 0,
+        "total_amount": 500000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6003456431095808759,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTnF2hnOKX86D06lCXN-1GMAAJEeQACtfFQSx7pEcUCnXRpHgQ",
+            "file_unique_id": "AgADRHkAArXxUEs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 46565,
+            "date": "2025-03-30 22:41:49",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeROcXaGc4pfzoPTqUJc37UYwAAkR5AAK18VBLHukRxQKddGkACAEAB20ABx4E",
+                    "file_unique_id": "AgADRHkAArXxUEs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6518
+                }
+            ]
+        },
+        "first_sale_date": "2025-03-30 22:49:51",
+        "last_sale_date": "2025-03-31 15:23:03",
+        "price": 100,
+        "convert_price": 85,
+        "available_amount": 0,
+        "total_amount": 200000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5998981470310368313,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTBGOaCzN7bxZ_ksfZHki0RAALabgACauZBS10M6U7_D4HBHgQ",
+            "file_unique_id": "AgAD2m4AAmrmQUs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 42092,
+            "date": "2025-03-29 22:27:20",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRMEY5oLM3tvFn-Sx9keSLREAAtpuAAJq5kFLXQzpTv8PgcEACAEAB20ABx4E",
+                    "file_unique_id": "AgAD2m4AAmrmQUs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4728
+                }
+            ]
+        },
+        "first_sale_date": "2025-03-29 23:13:49",
+        "last_sale_date": "2025-03-30 00:03:54",
+        "price": 100,
+        "convert_price": 85,
+        "available_amount": 0,
+        "total_amount": 120000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5960747083030856414,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRqpve4U7PA24yuZEUL5xTGAAJucwACwc24SoEYqV6lC_GTHgQ",
+            "file_unique_id": "AgADbnMAAsHNuEo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 65276,
+            "date": "2025-03-16 22:26:18",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRGqm97hTs8DbjK5kRQvnFMYAAm5zAALBzbhKgRipXqUL8ZMACAEAB20ABx4E",
+                    "file_unique_id": "AgADbnMAAsHNuEo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7786
+                }
+            ]
+        },
+        "first_sale_date": "2025-03-16 22:39:14",
+        "last_sale_date": "2025-03-18 12:33:01",
+        "price": 100,
+        "convert_price": 85,
+        "available_amount": 0,
+        "total_amount": 300000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5963238670868677492,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQ_SKdO1UjKOz6ELc1JdXvuAAKecgAC7rq5Ss26oYH6zOHjHgQ",
+            "file_unique_id": "AgADnnIAAu66uUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 41951,
+            "date": "2025-03-17 00:05:26",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRD9Ip07VSMo7PoQtzUl1e-4AAp5yAALuurlKzbqhgfrM4eMACAEAB20ABx4E",
+                    "file_unique_id": "AgADnnIAAu66uUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 8788
+                }
+            ]
+        },
+        "first_sale_date": "2025-03-16 22:39:11",
+        "last_sale_date": "2025-03-25 19:16:06",
+        "price": 250,
+        "convert_price": 213,
+        "available_amount": 0,
+        "total_amount": 120000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5933793770951673155,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTmr0tOdojALVRLwz569Xs3AAJ1YAACa3VhSnBA5xAi5M99HgQ",
+            "file_unique_id": "AgADdWAAAmt1YUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 34375,
+            "date": "2025-03-07 23:14:16",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeROavS052iMAtVEvDPnr1ezcAAnVgAAJrdWFKcEDnECLkz30ACAEAB20ABx4E",
+                    "file_unique_id": "AgADdWAAAmt1YUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5988
+                }
+            ]
+        },
+        "first_sale_date": "2025-03-07 23:41:47",
+        "last_sale_date": "2025-03-11 00:38:10",
+        "price": 2500,
+        "convert_price": 2125,
+        "upgrade_price": 500,
+        "available_amount": 0,
+        "total_amount": 18000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5933937398953018107,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSwdIXaVKrM26I5oCJ2B6TxAALScgACWndZSjrhHbquJwbNHgQ",
+            "file_unique_id": "AgAD0nIAAlp3WUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 15185,
+            "date": "2025-03-07 23:14:16",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRLB0hdpUqszbojmgInYHpPEAAtJyAAJad1lKOuEduq4nBs0ACAEAB20ABx4E",
+                    "file_unique_id": "AgAD0nIAAlp3WUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5058
+                }
+            ]
+        },
+        "first_sale_date": "2025-03-07 23:41:50",
+        "last_sale_date": "2025-03-14 07:06:30",
+        "price": 1000,
+        "convert_price": 850,
+        "available_amount": 0,
+        "total_amount": 40000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5933770397739647689,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRn2-Jcw07vZS7V4Mmxw9diAAKlZgACORNhSq1cVsBZGAl7HgQ",
+            "file_unique_id": "AgADpWYAAjkTYUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 61149,
+            "date": "2025-03-07 23:14:17",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRGfb4lzDTu9lLtXgybHD12IAAqVmAAI5E2FKrVxWwFkYCXsACAEAB20ABx4E",
+                    "file_unique_id": "AgADpWYAAjkTYUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7934
+                }
+            ]
+        },
+        "first_sale_date": "2025-03-07 23:41:50",
+        "last_sale_date": "2025-03-08 13:02:42",
+        "price": 200,
+        "convert_price": 170,
+        "available_amount": 0,
+        "total_amount": 150000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5933543975653737112,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTI5ppGOeQxWaID_9EDcmzVAAKjZQACYgRgSlnJZsmj2k37HgQ",
+            "file_unique_id": "AgADo2UAAmIEYEo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 55807,
+            "date": "2025-03-07 23:14:17",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRMjmmkY55DFZogP_0QNybNUAAqNlAAJiBGBKWclmyaPaTfsACAEAB20ABx4E",
+                    "file_unique_id": "AgADo2UAAmIEYEo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7390
+                }
+            ]
+        },
+        "first_sale_date": "2025-03-07 23:41:51",
+        "last_sale_date": "2025-03-08 08:09:48",
+        "price": 50,
+        "convert_price": 43,
+        "available_amount": 0,
+        "total_amount": 400000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5935877878062253519,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQXs7csujFjUheVohgz3tBEAAKpcAACRuVZSu7wG7-1yEY0HgQ",
+            "file_unique_id": "AgADqXAAAkblWUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 21315,
+            "date": "2025-03-07 23:14:17",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRBeztyy6MWNSF5WiGDPe0EQAAqlwAAJG5VlK7vAbv7XIRjQACAEAB20ABx4E",
+                    "file_unique_id": "AgADqXAAAkblWUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5120
+                }
+            ]
+        },
+        "first_sale_date": "2025-03-07 23:41:51",
+        "last_sale_date": "2025-03-08 11:47:27",
+        "price": 100,
+        "convert_price": 85,
+        "available_amount": 0,
+        "total_amount": 250000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5933737850477478635,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRa4r91QfyLY0iha5dJeJIMAAK5agACe_hYSvmkZ24uZNQyHgQ",
+            "file_unique_id": "AgADuWoAAnv4WEo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 46798,
+            "date": "2025-03-07 23:14:17",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRFriv3VB_ItjSKFrl0l4kgwAArlqAAJ7-FhK-aRnbi5k1DIACAEAB20ABx4E",
+                    "file_unique_id": "AgADuWoAAnv4WEo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7542
+                }
+            ]
+        },
+        "first_sale_date": "2025-03-07 23:41:51",
+        "last_sale_date": "2025-03-08 20:56:00",
+        "price": 150,
+        "convert_price": 128,
+        "available_amount": 0,
+        "total_amount": 200000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5913351908466098791,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRH5F9_VkEMhAI1lCOjwx6hAAI7dgACTWMRSpv0ZOUsb54pHgQ",
+            "file_unique_id": "AgADO3YAAk1jEUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 36100,
+            "date": "2025-02-28 22:11:42",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeREfkX39WQQyEAjWUI6PDHqEAAjt2AAJNYxFKm_Rk5SxvnikACAEAB20ABx4E",
+                    "file_unique_id": "AgADO3YAAk1jEUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4314
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-28 23:22:54",
+        "last_sale_date": "2025-03-08 09:31:10",
+        "price": 100,
+        "convert_price": 85,
+        "available_amount": 0,
+        "total_amount": 300000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5895518353849582541,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTg6GGtvHtPpoPIkj7JKDBUAAIHdQACnlXRSfqkNWVWFcQ3HgQ",
+            "file_unique_id": "AgADB3UAAp5V0Uk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 43175,
+            "date": "2025-02-23 00:02:15",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRODoYa28e0-mg8iSPskoMFQAAgd1AAKeVdFJ-qQ1ZVYVxDcACAEAB20ABx4E",
+                    "file_unique_id": "AgADB3UAAp5V0Uk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5084
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-23 01:05:51",
+        "last_sale_date": "2025-02-28 15:04:08",
+        "price": 10000,
+        "convert_price": 8500,
+        "available_amount": 0,
+        "total_amount": 5000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5895328365971244193,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQjqfzyH3Vk-mtnTzeo1zkSAAIqcAACKXnQSVIUOVBxnr1yHgQ",
+            "file_unique_id": "AgADKnAAAil50Ek",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 30613,
+            "date": "2025-02-23 00:02:15",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRCOp_PIfdWT6a2dPN6jXORIAAipwAAIpedBJUhQ5UHGevXIACAEAB20ABx4E",
+                    "file_unique_id": "AgADKnAAAil50Ek",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5720
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-23 01:05:56",
+        "last_sale_date": "2025-03-10 09:04:06",
+        "price": 5000,
+        "convert_price": 4250,
+        "upgrade_price": 1000,
+        "available_amount": 0,
+        "total_amount": 8000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5897593557492957738,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSl-cRZn1OiuZ5Xk7Lsd6xFAAJ_agACT0zYSeS7jvCe9e8gHgQ",
+            "file_unique_id": "AgADf2oAAk9M2Ek",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 8014,
+            "date": "2025-02-23 10:32:18",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎩",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRKX5xFmfU6K5nleTsux3rEUAAn9qAAJPTNhJ5LuO8J717yAACAEAB20ABx4E",
+                    "file_unique_id": "AgADf2oAAk9M2Ek",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3166
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-23 01:05:57",
+        "last_sale_date": "2025-03-03 07:51:44",
+        "price": 1000,
+        "convert_price": 850,
+        "upgrade_price": 200,
+        "available_amount": 0,
+        "total_amount": 40000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5895544372761461960,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTFXoUGRv4YhQfN629WOmINAAKxbAAC8p7QSZBta4DmdVVtHgQ",
+            "file_unique_id": "AgADsWwAAvKe0Ek",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 11250,
+            "date": "2025-02-23 00:02:15",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRMVehQZG_hiFB83rb1Y6Yg0AArFsAALyntBJkG1rgOZ1VW0ACAEAB20ABx4E",
+                    "file_unique_id": "AgADsWwAAvKe0Ek",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3026
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-23 01:05:59",
+        "last_sale_date": "2025-03-18 13:23:18",
+        "price": 300,
+        "convert_price": 255,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 100000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5897581235231785485,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkS3jM-1e_Qbl2NnY0lnTry5AALyaQACC2jQSba_IXlE1Y2BHgQ",
+            "file_unique_id": "AgAD8mkAAgto0Ek",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 12879,
+            "date": "2025-02-23 00:02:15",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRLeMz7V79BuXY2djSWdOvLkAAvJpAAILaNBJtr8heUTVjYEACAEAB20ABx4E",
+                    "file_unique_id": "AgAD8mkAAgto0Ek",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4252
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-23 01:05:55",
+        "last_sale_date": "2025-02-24 12:31:53",
+        "price": 200,
+        "convert_price": 170,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 150000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5895603153683874485,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkR7F_TMhl950i_FC6v8WHoGAAIqaQAC3QvYSdAV_8fGE1n-HgQ",
+            "file_unique_id": "AgADKmkAAt0L2Ek",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 23619,
+            "date": "2025-02-23 00:02:15",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRHsX9MyGX3nSL8ULq_xYegYAAippAALdC9hJ0BX_x8YTWf4ACAEAB20ABx4E",
+                    "file_unique_id": "AgADKmkAAt0L2Ek",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4474
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-23 01:06:00",
+        "last_sale_date": "2025-02-25 09:29:51",
+        "price": 100,
+        "convert_price": 85,
+        "available_amount": 0,
+        "total_amount": 250000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5872744075014177223,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRDbgYNGtxpPD_2YpaYxKsdAAIJZwACQsB5SdvsXgvuiQpgHgQ",
+            "file_unique_id": "AgADCWcAAkLAeUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 29166,
+            "date": "2025-02-14 15:37:54",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRENuBg0a3Gk8P_ZilpjEqx0AAglnAAJCwHlJ2-xeC-6JCmAACAEAB20ABx4E",
+                    "file_unique_id": "AgADCWcAAkLAeUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6648
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 14:49:54",
+        "last_sale_date": "2025-02-15 20:45:43",
+        "price": 500,
+        "convert_price": 425,
+        "available_amount": 0,
+        "total_amount": 80000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5870972044522291836,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTbomupHGyVSTkxIUKiNwk-AAIJYwACel3ZS71YTe8YdzgJHgQ",
+            "file_unique_id": "AgADCWMAAnpd2Us",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 6855,
+            "date": "2025-01-05 14:28:20",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRNuia6kcbJVJOTEhQqI3CT4AAgljAAJ6XdlLvVhN7xh3OAkACAEAB20ABx4E",
+                    "file_unique_id": "AgADCWMAAnpd2Us",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3428
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 14:49:54",
+        "last_sale_date": "2025-02-18 12:16:46",
+        "price": 200,
+        "convert_price": 170,
+        "available_amount": 0,
+        "total_amount": 200000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5871002671934079382,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRFabjWXS6jk8Q1u_Eah_7XAAK8cQAChnNxSY75rb1538zbHgQ",
+            "file_unique_id": "AgADvHEAAoZzcUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 48691,
+            "date": "2025-02-14 00:17:37",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeREVpuNZdLqOTxDW78RqH_tcAArxxAAKGc3FJjvmtvXnfzNsACAEAB20ABx4E",
+                    "file_unique_id": "AgADvHEAAoZzcUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 8160
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 14:49:54",
+        "last_sale_date": "2025-02-27 01:40:26",
+        "price": 250,
+        "convert_price": 213,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 180000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5870661333703197240,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRhXUT2kBF5zsSlDJK1buvYAAKYZgACWAXRSxdNZVfu75RnHgQ",
+            "file_unique_id": "AgADmGYAAlgF0Us",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 30422,
+            "date": "2025-01-04 19:15:12",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRGFdRPaQEXnOxKUMkrVu69gAAphmAAJYBdFLF01lV-7vlGcACAEAB20ABx4E",
+                    "file_unique_id": "AgADmGYAAlgF0Us",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5126
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 14:49:41",
+        "last_sale_date": "2025-02-14 16:49:12",
+        "price": 5000,
+        "convert_price": 4250,
+        "upgrade_price": 1000,
+        "available_amount": 0,
+        "total_amount": 9000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5870862540036113469,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRKxl3jxDruZfNkyzItEKcyAAIRawACuQpwSc862QYQBz5AHgQ",
+            "file_unique_id": "AgADEWsAArkKcEk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 37645,
+            "date": "2025-02-13 12:23:11",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRErGXePEOu5l82TLMi0QpzIAAhFrAAK5CnBJzzrZBhAHPkAACAEAB20ABx4E",
+                    "file_unique_id": "AgADEWsAArkKcEk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 8544
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 14:49:54",
+        "last_sale_date": "2025-03-10 16:01:24",
+        "price": 300,
+        "convert_price": 255,
+        "available_amount": 0,
+        "total_amount": 150000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5870720080265871962,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSNi1ALIgzyFBa-m3NoMj9_AAIpaAACrzXRS1NWhTOZ4bjUHgQ",
+            "file_unique_id": "AgADKWgAAq810Us",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 18606,
+            "date": "2025-01-04 19:11:25",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRI2LUAsiDPIUFr6bc2gyP38AAiloAAKvNdFLU1aFM5nhuNQACAEAB20ABx4E",
+                    "file_unique_id": "AgADKWgAAq810Us",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5066
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 14:49:43",
+        "last_sale_date": "2025-02-14 15:10:17",
+        "price": 10000,
+        "convert_price": 8500,
+        "upgrade_price": 2000,
+        "available_amount": 0,
+        "total_amount": 5000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5868595669182186720,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTLQXZ1M1-4V-twiM_YQnK3AAJIbQACmVBxSVvH2bPqsMUHHgQ",
+            "file_unique_id": "AgADSG0AAplQcUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 16157,
+            "date": "2025-02-14 00:33:35",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRMtBdnUzX7hX63CIz9hCcrcAAkhtAAKZUHFJW8fZs-qwxQcACAEAB20ABx4E",
+                    "file_unique_id": "AgADSG0AAplQcUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7168
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 02:01:29",
+        "last_sale_date": "2025-02-14 08:16:10",
+        "price": 400,
+        "convert_price": 340,
+        "available_amount": 0,
+        "total_amount": 50000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5868348541058942091,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRrJEXZE8I-yxHQEHrYPjIsAAKVdQACNPp4SQ0dTT9tKxSBHgQ",
+            "file_unique_id": "AgADlXUAAjT6eEk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 16628,
+            "date": "2025-02-14 00:23:21",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRGskRdkTwj7LEdAQetg-MiwAApV1AAI0-nhJDR1NP20rFIEACAEAB20ABx4E",
+                    "file_unique_id": "AgADlXUAAjT6eEk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6256
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 02:01:30",
+        "last_sale_date": "2025-02-14 04:47:31",
+        "price": 1000,
+        "convert_price": 850,
+        "upgrade_price": 200,
+        "available_amount": 0,
+        "total_amount": 35000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5868220813026526561,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQs3blixiRTRUfveZWLOmecAALNYgACBQJ4SRRIkIOmMGENHgQ",
+            "file_unique_id": "AgADzWIAAgUCeEk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 13485,
+            "date": "2025-02-14 00:23:21",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRCzduWLGJFNFR-95lYs6Z5wAAs1iAAIFAnhJFEiQg6YwYQ0ACAEAB20ABx4E",
+                    "file_unique_id": "AgADzWIAAgUCeEk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6312
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 02:01:41",
+        "last_sale_date": "2025-02-14 05:36:29",
+        "price": 500,
+        "convert_price": 425,
+        "upgrade_price": 100,
+        "available_amount": 0,
+        "total_amount": 60000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5868503709637411929,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQ_nY8FZPVU2Kkl3gJwJwI8AAL6ZAACHLN5SWMc-UyUFrSUHgQ",
+            "file_unique_id": "AgAD-mQAAhyzeUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 29571,
+            "date": "2025-02-14 00:23:21",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRD-djwVk9VTYqSXeAnAnAjwAAvpkAAIcs3lJYxz5TJQWtJQACAEAB20ABx4E",
+                    "file_unique_id": "AgAD-mQAAhyzeUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5134
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 02:01:30",
+        "last_sale_date": "2025-02-14 03:07:18",
+        "price": 1000,
+        "convert_price": 850,
+        "upgrade_price": 200,
+        "available_amount": 0,
+        "total_amount": 35000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5868561433997870501,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRw91KVyFHzRs1jAAESn15KDQACaF4AApzCeUkcF3lSdCp17B4E",
+            "file_unique_id": "AgADaF4AApzCeUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 26395,
+            "date": "2025-02-14 00:33:35",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRHD3UpXIUfNGzWMAARKfXkoNAAJoXgACnMJ5SRwXeVJ0KnXsAAgBAAdtAAceBA",
+                    "file_unique_id": "AgADaF4AApzCeUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6842
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 02:01:29",
+        "last_sale_date": "2025-02-14 06:24:53",
+        "price": 500,
+        "convert_price": 425,
+        "available_amount": 0,
+        "total_amount": 40000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5870784783948186838,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTRq31E3Rr1Zam4spzbYf7cAALmbgACf4ZwSUWk8gqAN7-rHgQ",
+            "file_unique_id": "AgAD5m4AAn-GcEk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 18098,
+            "date": "2025-02-14 00:33:36",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRNGrfUTdGvVlqbiynNth_twAAuZuAAJ_hnBJRaTyCoA3v6sACAEAB20ABx4E",
+                    "file_unique_id": "AgAD5m4AAn-GcEk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5476
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 02:01:40",
+        "last_sale_date": "2025-02-14 10:24:42",
+        "price": 200,
+        "convert_price": 170,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 150000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5868659926187901653,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRkEnsFryTHGq4mil8JcPEzAALyYgACd_t5SRue43cW8AMHHgQ",
+            "file_unique_id": "AgAD8mIAAnf7eUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 27075,
+            "date": "2025-02-14 16:59:21",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRGQSewWvJMcariaKXwlw8TMAAvJiAAJ3-3lJG57jdxbwAwcACAEAB20ABx4E",
+                    "file_unique_id": "AgAD8mIAAnf7eUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5744
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 02:01:24",
+        "last_sale_date": "2025-02-14 02:25:47",
+        "price": 2500,
+        "convert_price": 2125,
+        "upgrade_price": 500,
+        "available_amount": 0,
+        "total_amount": 15000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5870947077877400011,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRDSeKoekDlcK3r10BOm2wEAAIGaAACfM54Sb89t3U3qddoHgQ",
+            "file_unique_id": "AgADBmgAAnzOeEk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 34021,
+            "date": "2025-02-14 00:47:55",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRENJ4qh6QOVwrevXQE6bbAQAAgZoAAJ8znhJvz23dTep12gACAEAB20ABx4E",
+                    "file_unique_id": "AgADBmgAAnzOeEk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6696
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 02:01:40",
+        "last_sale_date": "2025-02-14 09:24:02",
+        "price": 300,
+        "convert_price": 255,
+        "available_amount": 0,
+        "total_amount": 70000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5868455043362980631,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRBJJyal8mlnFTfZ7b1R_SJAALVYQACV5h5STPQN4nZHq-YHgQ",
+            "file_unique_id": "AgAD1WEAAleYeUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 54431,
+            "date": "2025-02-14 00:33:35",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeREEknJqXyaWcVN9ntvVH9IkAAtVhAAJXmHlJM9A3idker5gACAEAB20ABx4E",
+                    "file_unique_id": "AgAD1WEAAleYeUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7936
+                }
+            ]
+        },
+        "first_sale_date": "2025-02-14 02:01:28",
+        "last_sale_date": "2025-02-14 02:07:01",
+        "price": 10000,
+        "convert_price": 8500,
+        "upgrade_price": 2000,
+        "available_amount": 0,
+        "total_amount": 2000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6028426950047957932,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkT2P1i_2YlsKGD5pjoHYaEeAALaXwACctOgS6wmeFQQI6vLHgQ",
+            "file_unique_id": "AgAD2l8AAnLToEs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 63485,
+            "date": "2024-12-30 23:35:30",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRPY_WL_ZiWwoYPmmOgdhoR4AAtpfAAJy06BLrCZ4VBAjq8sACAEAB20ABx4E",
+                    "file_unique_id": "AgAD2l8AAnLToEs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5808
+                }
+            ]
+        },
+        "first_sale_date": "2025-01-01 15:37:52",
+        "last_sale_date": "2025-01-05 00:05:16",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 400000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6028283532500009446,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQzGTuW6orFW_ny8Xi3aGFiAAJcZgAC_V-ZS4RkIm3SoVFkHgQ",
+            "file_unique_id": "AgADXGYAAv1fmUs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 47718,
+            "date": "2024-12-30 23:38:50",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRDMZO5bqisVb-fLxeLdoYWIAAlxmAAL9X5lLhGQibdKhUWQACAEAB20ABx4E",
+                    "file_unique_id": "AgADXGYAAv1fmUs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7726
+                }
+            ]
+        },
+        "first_sale_date": "2025-01-01 15:37:53",
+        "last_sale_date": "2025-01-13 13:34:43",
+        "price": 50,
+        "convert_price": 43,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 200000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6023917088358269866,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQz4ZfzD_L1ysgMbaR8jaX_AAIjawACnUyZS1ogQXFdz6DkHgQ",
+            "file_unique_id": "AgADI2sAAp1MmUs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 33336,
+            "date": "2024-12-30 21:26:38",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRDPhl_MP8vXKyAxtpHyNpf8AAiNrAAKdTJlLWiBBcV3PoOQACAEAB20ABx4E",
+                    "file_unique_id": "AgADI2sAAp1MmUs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5520
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-30 22:06:06",
+        "last_sale_date": "2024-12-31 22:36:29",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 400000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6023679164349940429,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQ4tyjkDMwEDicjiKk0D_RQAAKYcgACs7iYS78uyynr3GU6HgQ",
+            "file_unique_id": "AgADmHIAArO4mEs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 56814,
+            "date": "2024-12-30 21:26:46",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRDi3KOQMzAQOJyOIqTQP9FAAAphyAAKzuJhLvy7LKevcZToACAEAB20ABx4E",
+                    "file_unique_id": "AgADmHIAArO4mEs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6206
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-30 22:06:06",
+        "last_sale_date": "2025-01-01 01:33:34",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 400000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6023752243218481939,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkT4B9kUY29pAAFw9kNdeXEFhwACEmkAAi4HmEsfRK8n1gunSB4E",
+            "file_unique_id": "AgADEmkAAi4HmEs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 13892,
+            "date": "2024-12-30 21:26:31",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRPgH2RRjb2kAAXD2Q115cQWHAAISaQACLgeYSx9EryfWC6dIAAgBAAdtAAceBA",
+                    "file_unique_id": "AgADEmkAAi4HmEs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7830
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-30 22:06:07",
+        "last_sale_date": "2025-01-03 06:10:17",
+        "price": 50,
+        "convert_price": 43,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 200000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6003373314888696650,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkT2neEOLFueRmbguxUlGmX0AAIqZQACP4tJS5fq_7PsOTQjHgQ",
+            "file_unique_id": "AgADKmUAAj-LSUs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 53729,
+            "date": "2024-12-23 12:41:01",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRPad4Q4sW55GZuC7FSUaZfQAAiplAAI_i0lLl-r_s-w5NCMACAEAB20ABx4E",
+                    "file_unique_id": "AgADKmUAAj-LSUs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6304
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-23 22:57:24",
+        "last_sale_date": "2024-12-29 11:38:19",
+        "price": 10,
+        "convert_price": 9,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 600000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6003767644426076664,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkToj7Vmp46Kq4iUOCdW9tYMAAIpYwACtDRAS_ShMFwfsxNJHgQ",
+            "file_unique_id": "AgADKWMAArQ0QEs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 48548,
+            "date": "2024-12-22 17:58:37",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeROiPtWanjoqriJQ4J1b21gwAAiljAAK0NEBL9KEwXB-zE0kACAEAB20ABx4E",
+                    "file_unique_id": "AgADKWMAArQ0QEs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5890
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-23 22:57:24",
+        "last_sale_date": "2024-12-29 11:01:10",
+        "price": 10,
+        "convert_price": 9,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 600000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6001538689543439169,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSJmer7ie072J9IldbKRFgUAAI3XwACiPdpSmADh3ixvbRkHgQ",
+            "file_unique_id": "AgADN18AAoj3aUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 31806,
+            "date": "2024-12-01 14:03:49",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRImZ6vuJ7TvYn0iV1spEWBQAAjdfAAKI92lKYAOHeLG9tGQACAEAB20ABx4E",
+                    "file_unique_id": "AgADN18AAoj3aUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7642
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-23 22:57:25",
+        "last_sale_date": "2024-12-28 19:43:04",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 400000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6003643167683903930,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRjsc2LdeKgi9areS1CgAF7AAKSYQACLGxhSrGfcUyyhn8_HgQ",
+            "file_unique_id": "AgADkmEAAixsYUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 35862,
+            "date": "2024-12-01 14:06:27",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRGOxzYt14qCL1qt5LUKAAXsAApJhAAIsbGFKsZ9xTLKGfz8ACAEAB20ABx4E",
+                    "file_unique_id": "AgADkmEAAixsYUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7328
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-23 22:57:25",
+        "last_sale_date": "2024-12-30 08:15:19",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 400000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6003735372041814769,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRDJ4WAOmB2gKYEhArfRhhxAALRXAACaIhIS8xUpobOAoF8HgQ",
+            "file_unique_id": "AgAD0VwAAmiISEs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 46064,
+            "date": "2024-12-23 12:41:14",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeREMnhYA6YHaApgSECt9GGHEAAtFcAAJoiEhLzFSmhs4CgXwACAEAB20ABx4E",
+                    "file_unique_id": "AgAD0VwAAmiISEs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6638
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-23 22:57:26",
+        "last_sale_date": "2024-12-29 11:15:37",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 200000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 6001473264306619020,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTaFVxGHW7eIKy6mq4eL020AAK3ZQACwZ-5SviG8CqpOroJHgQ",
+            "file_unique_id": "AgADt2UAAsGfuUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 35963,
+            "date": "2024-12-09 15:33:07",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRNoVXEYdbt4grLqarh4vTbQAArdlAALBn7lK-IbwKqk6ugkACAEAB20ABx4E",
+                    "file_unique_id": "AgADt2UAAsGfuUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 8390
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-23 22:57:26",
+        "last_sale_date": "2024-12-30 18:49:04",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 200000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5983484377902875708,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkT52n-OqWogIJTqHDv8_bhYAAKLYwACrLO5StseAAFzKhgahB4E",
+            "file_unique_id": "AgADi2MAAqyzuUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 29309,
+            "date": "2024-12-09 16:35:20",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRPnaf46paiAglOocO_z9uFgAAotjAAKss7lK2x4AAXMqGBqEAAgBAAdtAAceBA",
+                    "file_unique_id": "AgADi2MAAqyzuUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6740
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-17 00:19:00",
+        "last_sale_date": "2024-12-18 21:13:39",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 300000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5983259145522906006,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQui48toEtZAuVne7IfX7o4AAJ8XAACN2a5Sk06RJY2CtwPHgQ",
+            "file_unique_id": "AgADfFwAAjdmuUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 35247,
+            "date": "2024-12-09 13:48:19",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRC6Ljy2gS1kC5Wd7sh9fujgAAnxcAAI3ZrlKTTpEljYK3A8ACAEAB20ABx4E",
+                    "file_unique_id": "AgADfFwAAjdmuUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 8646
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-17 00:19:00",
+        "last_sale_date": "2024-12-20 23:19:13",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 200000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5983471780763796287,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTlcYQXb5kf3sBIvRULxTE9AAJeagACE7K5Stnk_ZiT1Ib8HgQ",
+            "file_unique_id": "AgADXmoAAhOyuUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 64618,
+            "date": "2024-12-09 21:50:43",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeROVxhBdvmR_ewEi9FQvFMT0AAl5qAAITsrlK2eT9mJPUhvwACAEAB20ABx4E",
+                    "file_unique_id": "AgADXmoAAhOyuUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4330
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-17 00:19:01",
+        "last_sale_date": "2024-12-28 18:01:18",
+        "price": 50,
+        "convert_price": 43,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 150000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5981132629905245483,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTYcNd0ZSwXvfYgjXY_Npy9AAI-WgACqZlgSu219j4pPcD4HgQ",
+            "file_unique_id": "AgADPloAAqmZYEo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 33475,
+            "date": "2024-12-01 14:01:07",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRNhw13RlLBe99iCNdj82nL0AAj5aAAKpmWBK7bX2Pik9wPgACAEAB20ABx4E",
+                    "file_unique_id": "AgADPloAAqmZYEo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7254
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-17 00:19:01",
+        "last_sale_date": "2024-12-30 17:16:11",
+        "price": 75,
+        "convert_price": 64,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 120000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5980789805615678057,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkS6KhpEr1ZpN12xxNxO87ESAAKVXwACWBmISpA2bswVniXQHgQ",
+            "file_unique_id": "AgADlV8AAlgZiEo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 38062,
+            "date": "2024-12-05 18:32:10",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRLoqGkSvVmk3XbHE3E7zsRIAApVfAAJYGYhKkDZuzBWeJdAACAEAB20ABx4E",
+                    "file_unique_id": "AgADlV8AAlgZiEo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7362
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-17 00:19:01",
+        "last_sale_date": "2024-12-30 19:26:43",
+        "price": 100,
+        "convert_price": 85,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 90000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5981026247860290310,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRBWX26V_4fdVlUW6K3_Ld_AAK3VwACwROgSq_YbObpL6ZeHgQ",
+            "file_unique_id": "AgADt1cAAsEToEo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 34233,
+            "date": "2024-12-07 16:32:35",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeREFZfbpX_h91WVRborf8t38AArdXAALBE6BKr9hs5ukvpl4ACAEAB20ABx4E",
+                    "file_unique_id": "AgADt1cAAsEToEo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5128
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-17 00:19:01",
+        "last_sale_date": "2025-01-01 12:06:02",
+        "price": 200,
+        "convert_price": 170,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 50000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5933590374185435592,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTGXpJZoVD44Etski_HV3cGAAKhXAACN4qRScf3IWcFPM3YHgQ",
+            "file_unique_id": "AgADoVwAAjeKkUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 28679,
+            "date": "2024-11-11 15:46:24",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRMZeklmhUPjgS2ySL8dXdwYAAqFcAAI3ipFJx_chZwU8zdgACAEAB20ABx4E",
+                    "file_unique_id": "AgADoVwAAjeKkUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5512
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-01 00:00:27",
+        "last_sale_date": "2024-12-15 12:29:56",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 400000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5936017773737018241,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkT3sEm58mrbSyyPKFC-ax0AAz-2AALJxmhKtqxce4X1uNAeBA",
+            "file_unique_id": "AgADP7YAAsnGaEo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 13969,
+            "date": "2024-12-01 19:05:53",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRPewSbnyattLLI8oUL5rHQADP7YAAsnGaEq2rFx7hfW40AAIAQAHbQAHHgQ",
+                    "file_unique_id": "AgADP7YAAsnGaEo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3548
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-01 00:00:28",
+        "last_sale_date": "2024-12-16 21:24:22",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 200000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5935936766358847989,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQbkjTa9SpKT-u4J27EPrBfAAJbVwACAfdoSYw9fUwl1cD2HgQ",
+            "file_unique_id": "AgADW1cAAgH3aEk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 18167,
+            "date": "2024-11-07 11:39:10",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRBuSNNr1KkpP67gnbsQ-sF8AAltXAAIB92hJjD19TCXVwPYACAEAB20ABx4E",
+                    "file_unique_id": "AgADW1cAAgH3aEk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5614
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-01 00:00:28",
+        "last_sale_date": "2024-12-05 09:58:50",
+        "price": 50,
+        "convert_price": 43,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 100000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5936043693864651359,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTAi732pxv1WbDmwlfxjcxzAALPWwACUdRwScoxIEcUEF75HgQ",
+            "file_unique_id": "AgADz1sAAlHUcEk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 19538,
+            "date": "2024-11-08 11:03:43",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRMCLvfanG_VZsObCV_GNzHMAAs9bAAJR1HBJyjEgRxQQXvkACAEAB20ABx4E",
+                    "file_unique_id": "AgADz1sAAlHUcEk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5616
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-01 00:00:28",
+        "last_sale_date": "2024-12-09 21:38:19",
+        "price": 100,
+        "convert_price": 85,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 50000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5936085638515261992,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSjNdveaog8M82aBp6DGRmJAAK7YgACKhY5Ss9IjRLrZ0iSHgQ",
+            "file_unique_id": "AgADu2IAAioWOUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 32641,
+            "date": "2024-11-27 18:11:44",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRKM1295qiDwzzZoGnoMZGYkAArtiAAIqFjlKz0iNEutnSJIACAEAB20ABx4E",
+                    "file_unique_id": "AgADu2IAAioWOUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4234
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-01 00:00:29",
+        "last_sale_date": "2024-12-09 22:46:21",
+        "price": 150,
+        "convert_price": 128,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 30000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5933531623327795414,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRlDgMAAeDLXL50pMIvZMajrwACeVsAAlwguElW_W3zNCPG5B4E",
+            "file_unique_id": "AgADeVsAAlwguEk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 24578,
+            "date": "2024-11-15 15:09:18",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRGUOAwAB4MtcvnSkwi9kxqOvAAJ5WwACXCC4SVb9bfM0I8bkAAgBAAdtAAceBA",
+                    "file_unique_id": "AgADeVsAAlwguEk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4812
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-01 00:00:29",
+        "last_sale_date": "2024-12-28 19:45:10",
+        "price": 350,
+        "convert_price": 298,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 15000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5933629604416717361,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRJ1lZZbaf4CfN_UX2vCe0gAAI9WgADo-hJcV67YLhP_wseBA",
+            "file_unique_id": "AgADPVoAA6PoSQ",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 14432,
+            "date": "2024-11-19 11:33:45",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeREnWVlltp_gJ839Rfa8J7SAAAj1aAAOj6ElxXrtguE__CwAIAQAHbQAHHgQ",
+                    "file_unique_id": "AgADPVoAA6PoSQ",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 8816
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-01 00:00:29",
+        "last_sale_date": "2024-12-08 14:42:10",
+        "price": 500,
+        "convert_price": 425,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 10000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5933671725160989227,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQvpuL3QW1LGQom6lBFBuxDAAJJVgACgUpxSRYw4xrNnEobHgQ",
+            "file_unique_id": "AgADSVYAAoFKcUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 20925,
+            "date": "2024-11-08 11:28:17",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRC-m4vdBbUsZCibqUEUG7EMAAklWAAKBSnFJFjDjGs2cShsACAEAB20ABx4E",
+                    "file_unique_id": "AgADSVYAAoFKcUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4380
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-01 00:00:29",
+        "last_sale_date": "2024-12-07 09:29:04",
+        "price": 1000,
+        "convert_price": 850,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 5000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5936013938331222567,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRvfdDwMsBcS3x1KVR-qdNQAAKgXQAC-lMJSjabmOFusRl9HgQ",
+            "file_unique_id": "AgADoF0AAvpTCUo",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 14800,
+            "date": "2024-11-23 12:01:19",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRG990PAywFxLfHUpVH6p01AAAqBdAAL6UwlKNpuY4W6xGX0ACAEAB20ABx4E",
+                    "file_unique_id": "AgADoF0AAvpTCUo",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6402
+                }
+            ]
+        },
+        "first_sale_date": "2024-12-01 00:00:30",
+        "last_sale_date": "2024-12-01 09:42:41",
+        "price": 2000,
+        "convert_price": 1700,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 3000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5913442287462908725,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkR52VuCnJ51Cgd4OEvsG8VmAAIZYgAC2YL5SVAvhEcEEoFrHgQ",
+            "file_unique_id": "AgADGWIAAtmC-Uk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 27394,
+            "date": "2024-11-21 17:25:33",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRHnZW4KcnnUKB3g4S-wbxWYAAhliAALZgvlJUC-ERwQSgWsACAEAB20ABx4E",
+                    "file_unique_id": "AgADGWIAAtmC-Uk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5536
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-24 01:14:28",
+        "last_sale_date": "2024-11-28 18:25:36",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 400000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5915502858152706668,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTsErW5Ba-srtfv8-4SZuDQAAJrYwACBfpxSVsG1CXX3q-fHgQ",
+            "file_unique_id": "AgADa2MAAgX6cUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 53045,
+            "date": "2024-11-08 14:59:04",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeROwStbkFr6yu1-_z7hJm4NAAAmtjAAIF-nFJWwbUJdfer58ACAEAB20ABx4E",
+                    "file_unique_id": "AgADa2MAAgX6cUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3906
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-24 01:14:28",
+        "last_sale_date": "2024-11-26 00:36:51",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 200000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5915733223018594841,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRr052f0U_JGP8AAS7b8Ih-1QACbVgAAp28YEnX8YMtEG7qRx4E",
+            "file_unique_id": "AgADbVgAAp28YEk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 13656,
+            "date": "2024-11-06 10:45:16",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRGvTnZ_RT8kY_wABLtvwiH7VAAJtWAACnbxgSdfxgy0QbupHAAgBAAdtAAceBA",
+                    "file_unique_id": "AgADbVgAAp28YEk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3700
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-24 01:14:29",
+        "last_sale_date": "2024-11-27 21:25:34",
+        "price": 50,
+        "convert_price": 43,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 100000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5915521180483191380,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQQrrTYMRnabxoUYaADlaP_AAJEWgACIKX4SWMZN9mZAAFrNh4E",
+            "file_unique_id": "AgADRFoAAiCl-Ek",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 21731,
+            "date": "2024-11-21 12:40:54",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRBCutNgxGdpvGhRhoAOVo_8AAkRaAAIgpfhJYxk32ZkAAWs2AAgBAAdtAAceBA",
+                    "file_unique_id": "AgADRFoAAiCl-Ek",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3054
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-24 01:14:36",
+        "last_sale_date": "2024-11-24 13:29:44",
+        "price": 1000,
+        "convert_price": 850,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 5000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5915550639663874519,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkR7DbEzsB-ybDRDv6B8uGPoAAIuXwAC-3hZSfKozlVY-kYRHgQ",
+            "file_unique_id": "AgADLl8AAvt4WUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 16221,
+            "date": "2024-11-06 10:51:12",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRHsNsTOwH7JsNEO_oHy4Y-gAAi5fAAL7eFlJ8qjOVVj6RhEACAEAB20ABx4E",
+                    "file_unique_id": "AgADLl8AAvt4WUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4968
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-24 01:14:30",
+        "last_sale_date": "2024-11-30 16:33:51",
+        "price": 100,
+        "convert_price": 85,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 50000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": true
+    },
+    {
+        "_": "Gift",
+        "id": 5913517067138499193,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQPWow22gmDvZ1vaSERJrIPAALsVgAC6e4pSSUFZCwwQH7GHgQ",
+            "file_unique_id": "AgAD7FYAAunuKUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 18429,
+            "date": "2024-11-01 17:46:12",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRA9ajDbaCYO9nW9pIREmsg8AAuxWAALp7ilJJQVkLDBAfsYACAEAB20ABx4E",
+                    "file_unique_id": "AgAD7FYAAunuKUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3586
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-24 01:14:37",
+        "last_sale_date": "2024-11-30 20:05:10",
+        "price": 500,
+        "convert_price": 425,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 10000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5879737836550226478,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQZfEb4P534eMKJzRkQNbVtAAJGWQACfAJRSXBUeO8sW9yOHgQ",
+            "file_unique_id": "AgADRlkAAnwCUUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 28193,
+            "date": "2024-11-05 13:57:57",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRBl8Rvg_nfh4wonNGRA1tW0AAkZZAAJ8AlFJcFR47yxb3I4ACAEAB20ABx4E",
+                    "file_unique_id": "AgADRlkAAnwCUUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 2892
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-13 00:25:32",
+        "last_sale_date": "2024-11-19 06:49:46",
+        "price": 500,
+        "convert_price": 425,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 10000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5882125812596999035,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSYEJFDi8MEjtfkH8ceqqgEAAJZXAAC1ro5SW5sSZ5lghRtHgQ",
+            "file_unique_id": "AgADWVwAAta6OUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 24009,
+            "date": "2024-11-02 20:32:48",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRJgQkUOLwwSO1-Qfxx6qqAQAAllcAALWujlJbmxJnmWCFG0ACAEAB20ABx4E",
+                    "file_unique_id": "AgADWVwAAta6OUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 8170
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-13 00:25:32",
+        "last_sale_date": "2024-11-15 21:56:46",
+        "price": 100,
+        "convert_price": 85,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 50000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5882252952218894938,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSOIIqjHnNHXdf3MK2HvzQ8AAJBYgAClIc5SSK0Pg7FBteyHgQ",
+            "file_unique_id": "AgADQWIAApSHOUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 25499,
+            "date": "2024-11-03 16:51:46",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRI4giqMec0dd1_cwrYe_NDwAAkFiAAKUhzlJIrQ-DsUG17IACAEAB20ABx4E",
+                    "file_unique_id": "AgADQWIAApSHOUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7302
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-13 00:25:33",
+        "last_sale_date": "2024-11-21 09:10:47",
+        "price": 50,
+        "convert_price": 43,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 100000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5859442703032386168,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkR9KrVb4J_6ueEjOjzNgMdlAAKtYgADvEhK2TorGiITT2QeBA",
+            "file_unique_id": "AgADrWIAA7xISg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 26207,
+            "date": "2025-03-05 11:13:05",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRH0qtVvgn_q54SM6PM2Ax2UAAq1iAAO8SErZOisaIhNPZAAIAQAHbQAHHgQ",
+                    "file_unique_id": "AgADrWIAA7xISg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5480
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-05 01:16:37",
+        "last_sale_date": "2024-11-08 23:18:03",
+        "price": 500,
+        "convert_price": 425,
+        "upgrade_price": 100,
+        "available_amount": 0,
+        "total_amount": 10000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5857140566201991735,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQOcP0qQhi_FjO0MbLzY-2EAAK9XgACrw8oSc4sahyfJv2KHgQ",
+            "file_unique_id": "AgADvV4AAq8PKEk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 19940,
+            "date": "2024-11-01 17:46:03",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRA5w_SpCGL8WM7QxsvNj7YQAAr1eAAKvDyhJzixqHJ8m_YoACAEAB20ABx4E",
+                    "file_unique_id": "AgADvV4AAq8PKEk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5324
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-05 01:17:00",
+        "last_sale_date": "2024-11-20 20:58:23",
+        "price": 100,
+        "convert_price": 85,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 50000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5856973938650776169,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRsa4IaVmhdMMbDUkOVNtUOAAJsWQACCRUwSc2K92hLfV-mHgQ",
+            "file_unique_id": "AgADbFkAAgkVMEk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 28242,
+            "date": "2024-11-02 14:21:54",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎁",
+            "set_name": "GiftsGiftsGifts",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRGxrghpWaF0wxsNSQ5U21Q4AAmxZAAIJFTBJzYr3aEt9X6YACAEAB20ABx4E",
+                    "file_unique_id": "AgADbFkAAgkVMEk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5322
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-05 01:17:00",
+        "last_sale_date": "2024-12-23 13:43:00",
+        "price": 50,
+        "convert_price": 43,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 100000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5846226946928673709,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQzuHyiKRqnyeaCmAWY7BZcAAJZOwACHOn4SHmVbOJtV5xKHgQ",
+            "file_unique_id": "AgADWTsAAhzp-Eg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 50925,
+            "date": "2023-10-05 21:03:24",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🧪",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRDO4fKIpGqfJ5oKYBZjsFlwAAlk7AAIc6fhIeZVs4m1XnEoACAEAB20ABx4E",
+                    "file_unique_id": "AgADWTsAAhzp-Eg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7128
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-01 00:13:44",
+        "last_sale_date": "2024-11-01 00:23:37",
+        "price": 50,
+        "convert_price": 43,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 5000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5846192273657692751,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSx9RqIlcVCm0ioGBpiXC5yAAJSOwACsExxSOtMYBwWHu9fHgQ",
+            "file_unique_id": "AgADUjsAArBMcUg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 30535,
+            "date": "2023-09-22 21:15:15",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "💀",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRLH1GoiVxUKbSKgYGmJcLnIAAlI7AAKwTHFI60xgHBYe718ACAEAB20ABx4E",
+                    "file_unique_id": "AgADUjsAArBMcUg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3938
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-01 00:13:45",
+        "last_sale_date": "2024-11-01 00:45:02",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 10000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5845776576658015084,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQOELB1EoDMZkyo-gdRZqeBAALgPQACPKkhSU7HiTDW9eu6HgQ",
+            "file_unique_id": "AgAD4D0AAjypIUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 18834,
+            "date": "2023-10-09 22:43:16",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🐸",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRA4QsHUSgMxmTKj6B1Fmp4EAAuA9AAI8qSFJTseJMNb167oACAEAB20ABx4E",
+                    "file_unique_id": "AgAD4D0AAjypIUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4618
+                }
+            ]
+        },
+        "first_sale_date": "2024-11-01 00:13:50",
+        "last_sale_date": "2024-11-01 00:56:53",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 15000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5825895989088617224,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSTKqh4PME0rgmuO0cCUkOIAAJMOgACkieYSCu5oclP2DsGHgQ",
+            "file_unique_id": "AgADTDoAApInmEg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 6607,
+            "date": "2023-09-26 16:37:30",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🍭",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRJMqqHg8wTSuCa47RwJSQ4gAAkw6AAKSJ5hIK7mhyU_YOwYACAEAB20ABx4E",
+                    "file_unique_id": "AgADTDoAApInmEg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4054
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-24 23:04:11",
+        "last_sale_date": "2024-11-27 17:56:44",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 300000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5825801628657124140,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRk91oPGuhzMkfkefV3IkCJAAKlMwACXQRpSaS8Pwf4mYV_HgQ",
+            "file_unique_id": "AgADpTMAAl0EaUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 43081,
+            "date": "2023-10-16 13:37:58",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🍲",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRGT3Wg8a6HMyR-R59XciQIkAAqUzAAJdBGlJpLw_B_iZhX8ACAEAB20ABx4E",
+                    "file_unique_id": "AgADpTMAAl0EaUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5812
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-24 23:04:22",
+        "last_sale_date": "2024-11-03 02:03:20",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 120000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5825480571261813595,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkS7ng5w7EgRgb6E1hy2Zrv7AAKSLgACEIrxS22jsBhWhJK3HgQ",
+            "file_unique_id": "AgADki4AAhCK8Us",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 11750,
+            "date": "2023-09-10 21:44:54",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "👁",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRLueDnDsSBGBvoTWHLZmu_sAApIuAAIQivFLbaOwGFaEkrcACAEAB20ABx4E",
+                    "file_unique_id": "AgADki4AAhCK8Us",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4538
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-24 23:04:37",
+        "last_sale_date": "2024-11-01 17:59:31",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 120000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5843762284240831056,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTJQbF3n7HH9UMfOXilSgsgAAJOOQACqekwSA114I8H9SaMHgQ",
+            "file_unique_id": "AgADTjkAAqnpMEg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 25875,
+            "date": "2023-09-16 21:54:29",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "💎",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRMlBsXefscf1Qx85eKVKCyAAAk45AAKp6TBIDXXgjwf1JowACAEAB20ABx4E",
+                    "file_unique_id": "AgADTjkAAqnpMEg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6926
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-30 22:08:39",
+        "last_sale_date": "2024-10-30 22:41:00",
+        "price": 100,
+        "convert_price": 85,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 5000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5841689550203650524,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSa0F0TUoNfw4WYR-_fzQ18AAKONQACZFdxSAEnG1yajJjXHgQ",
+            "file_unique_id": "AgADjjUAAmRXcUg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 21301,
+            "date": "2023-09-22 14:17:55",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🫦",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRJrQXRNSg1_DhZhH79_NDXwAAo41AAJkV3FIAScbXJqMmNcACAEAB20ABx4E",
+                    "file_unique_id": "AgADjjUAAmRXcUg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4188
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-30 22:08:17",
+        "last_sale_date": "2024-10-31 01:49:29",
+        "price": 50,
+        "convert_price": 43,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 10000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5841632504448025405,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQ-mhhSL_BcM0rVbsreV1XVAAKFNgAC9bnwS5956AJItFBeHgQ",
+            "file_unique_id": "AgADhTYAAvW58Es",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 18644,
+            "date": "2023-09-10 20:55:51",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "😏",
+            "set_name": "MemePumpkinsEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRD6aGFIv8FwzStVuyt5XVdUAAoU2AAL1ufBLn3noAki0UF4ACAEAB20ABx4E",
+                    "file_unique_id": "AgADhTYAAvW58Es",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6360
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-30 22:08:15",
+        "last_sale_date": "2024-11-01 00:04:01",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 30000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5841391256135008713,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkSAwkSSe68LXxWJaf6KAd_WAALSPAAC_Dz4SYSSUNP0NTEyHgQ",
+            "file_unique_id": "AgAD0jwAAvw8-Ek",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 14763,
+            "date": "2023-10-30 02:08:12",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🔤",
+            "set_name": "SpookyLetters",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRIDCRJJ7rwtfFYlp_ooB39YAAtI8AAL8PPhJhJJQ0_Q1MTIACAEAB20ABx4E",
+                    "file_unique_id": "AgAD0jwAAvw8-Ek",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 8688
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-29 22:45:16",
+        "last_sale_date": "2024-10-30 09:07:41",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 30000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5839038009193792264,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkR16fik8wABW7XK4AnO2cQgEQACEjYAAtyDuUgtJQX4woc-2B4E",
+            "file_unique_id": "AgADEjYAAtyDuUg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 28325,
+            "date": "2023-09-29 17:00:27",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🌺",
+            "set_name": "ReaperSkullEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRHXp-KTzAAFbtcrgCc7ZxCARAAISNgAC3IO5SC0lBfjChz7YAAgBAAdtAAceBA",
+                    "file_unique_id": "AgADEjYAAtyDuUg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6394
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-29 22:45:37",
+        "last_sale_date": "2024-10-30 19:29:55",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 30000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5841336413697606412,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRr1wkXYAABYLw4XIa4Fdjw8AACozIAAoM7KUltMhsPls2Omh4E",
+            "file_unique_id": "AgADozIAAoM7KUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 31490,
+            "date": "2023-10-10 10:52:42",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🔮",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRGvXCRdgAAFgvDhchrgV2PDwAAKjMgACgzspSW0yGw-WzY6aAAgBAAdtAAceBA",
+                    "file_unique_id": "AgADozIAAoM7KUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 8064
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-29 22:45:42",
+        "last_sale_date": "2024-10-30 00:28:15",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 30000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5837063436634161765,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTXA4IjZ5oi5l-dYi_34OYqAAJ-PgACxvdASdGYIMI9yMx5HgQ",
+            "file_unique_id": "AgADfj4AAsb3QEk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 22519,
+            "date": "2023-10-12 22:33:57",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🧹",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRNcDgiNnmiLmX51iL_fg5ioAAn4-AALG90BJ0Zggwj3IzHkACAEAB20ABx4E",
+                    "file_unique_id": "AgADfj4AAsb3QEk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4904
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-29 01:27:51",
+        "last_sale_date": "2024-10-29 12:12:50",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 30000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5836780359634649414,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTmuBncbF9zOGoXhsV5qqx1AALuOAACZBDZSFSU5_nBltZKHgQ",
+            "file_unique_id": "AgAD7jgAAmQQ2Ug",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 38148,
+            "date": "2023-10-02 12:47:44",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "📍",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeROa4GdxsX3M4aheGxXmqrHUAAu44AAJkENlIVJTn-cGW1koACAEAB20ABx4E",
+                    "file_unique_id": "AgAD7jgAAmQQ2Ug",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6022
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-29 01:27:38",
+        "last_sale_date": "2024-10-29 09:10:12",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 30000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5837059369300132790,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQr4DWZIjdi-M95GkjgeuFFAAIrOAAC-zXxSC-UZ4bkC41rHgQ",
+            "file_unique_id": "AgADKzgAAvs18Ug",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 21216,
+            "date": "2023-10-04 20:49:40",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🐈‍⬛",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRCvgNZkiN2L4z3kaSOB64UUAAis4AAL7NfFIL5RnhuQLjWsACAEAB20ABx4E",
+                    "file_unique_id": "AgADKzgAAvs18Ug",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4762
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-29 01:27:38",
+        "last_sale_date": "2024-10-29 03:50:00",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 20000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5821384757304362229,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkS6zHhGcE5AWN9ANDSZfSgcAALaOQACiGqBSegtruMvVRswHgQ",
+            "file_unique_id": "AgAD2jkAAohqgUk",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 23864,
+            "date": "2023-10-18 22:30:55",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎩",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRLrMeEZwTkBY30A0NJl9KBwAAto5AAKIaoFJ6C2u4y9VGzAACAEAB20ABx4E",
+                    "file_unique_id": "AgAD2jkAAohqgUk",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 4764
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-23 23:12:14",
+        "last_sale_date": "2024-10-24 15:34:30",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 100000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5821205665758053411,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTccluYgshuTFN-MnlFm_4NAAJjPAACivToSN578juNMaUhHgQ",
+            "file_unique_id": "AgADYzwAAor06Eg",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 24509,
+            "date": "2023-10-04 17:32:26",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🕯",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRNxyW5iCyG5MU34yeUWb_g0AAmM8AAKK9OhI3nvyO40xpSEACAEAB20ABx4E",
+                    "file_unique_id": "AgADYzwAAor06Eg",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5944
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-23 23:12:14",
+        "last_sale_date": "2024-10-24 00:14:24",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 50000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5821261908354794038,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQo7mKO2_TThzzq8aLeVQGzAAKbNwACZPfxS6j5no12R2_gHgQ",
+            "file_unique_id": "AgADmzcAAmT38Us",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 25004,
+            "date": "2023-09-11 12:43:06",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🍄",
+            "set_name": "HalloweenTeamEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRCjuYo7b9NOHPOrxot5VAbMAAps3AAJk9_FLqPmejXZHb-AACAEAB20ABx4E",
+                    "file_unique_id": "AgADmzcAAmT38Us",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3972
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-23 23:12:30",
+        "last_sale_date": "2024-10-24 08:44:45",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 100000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5170594532177215681,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQRLoujXRX7899Qh6zrgJoBAAJeGwACFsJIS-gZUO6nWSNFHgQ",
+            "file_unique_id": "AgADXhsAAhbCSEs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 58063,
+            "date": "2022-08-01 20:50:47",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🍭",
+            "set_name": "RestrictedEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRBEui6NdFfvz31CHrOuAmgEAAl4bAAIWwkhL6BlQ7qdZI0UACAEAB20ABx4E",
+                    "file_unique_id": "AgADXhsAAhbCSEs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 3986
+                }
+            ]
+        },
+        "first_sale_date": "2024-09-28 14:27:00",
+        "last_sale_date": "2024-10-06 00:45:30",
+        "price": 15,
+        "convert_price": 13,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 500000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5167939598143193218,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkTfR1v-QI0ffw-YAmI0aytzAAIqHAACJQWAS4QwzLakwdN4HgQ",
+            "file_unique_id": "AgADKhwAAiUFgEs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 41442,
+            "date": "2022-08-07 21:00:18",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🌸",
+            "set_name": "RestrictedEmoji",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRN9HW_5AjR9_D5gCYjRrK3MAAiocAAIlBYBLhDDMtqTB03gACAEAB20ABx4E",
+                    "file_unique_id": "AgADKhwAAiUFgEs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5456
+                }
+            ]
+        },
+        "first_sale_date": "2024-09-28 11:21:54",
+        "last_sale_date": "2024-10-05 22:47:54",
+        "price": 25,
+        "convert_price": 21,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 100000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": false
+    },
+    {
+        "_": "Gift",
+        "id": 5783075783622787539,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRkdgdWYfq88cPlHIsQtT1qAAIlPAAChpepS0gglbXt2KajHgQ",
+            "file_unique_id": "AgADJTwAAoaXqUs",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 16899,
+            "date": "2023-09-03 21:37:44",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🎂",
+            "set_name": "BirthdayCollection",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRGR2B1Zh-rzxw-UcixC1PWoAAiU8AAKGl6lLSCCVte3YpqMACAEAB20ABx4E",
+                    "file_unique_id": "AgADJTwAAoaXqUs",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 5726
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-10 20:34:47",
+        "last_sale_date": "2025-03-30 14:09:54",
+        "price": 500,
+        "convert_price": 425,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 500000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": true
+    },
+    {
+        "_": "Gift",
+        "id": 5782988952268964995,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkRFhXSj7luafQQPUvM4zydeAAJcPQACPovwSzcro45SHj-qHgQ",
+            "file_unique_id": "AgADXD0AAj6L8Es",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 19762,
+            "date": "2023-09-11 01:16:29",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🗓",
+            "set_name": "BirthdayCollection",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeREWFdKPuW5p9BA9S8zjPJ14AAlw9AAI-i_BLNyujjlIeP6oACAEAB20ABx4E",
+                    "file_unique_id": "AgADXD0AAj6L8Es",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 6586
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-10 20:36:26",
+        "last_sale_date": "2025-03-22 13:23:45",
+        "price": 150,
+        "convert_price": 128,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 500000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": true
+    },
+    {
+        "_": "Gift",
+        "id": 5782984811920491178,
+        "sticker": {
+            "_": "Sticker",
+            "file_id": "CAACAgIAAxUAAWhJHkQPUzHqLRm_vwRjQxVQw6n1AAKpMQACvGUAAUu1qWZHStZtjx4E",
+            "file_unique_id": "AgADqTEAArxlAAFL",
+            "file_name": "AnimatedSticker.tgs",
+            "mime_type": "application/x-tgsticker",
+            "file_size": 25081,
+            "date": "2023-08-19 17:20:23",
+            "width": 512,
+            "height": 512,
+            "is_animated": true,
+            "is_video": false,
+            "needs_repainting": false,
+            "emoji": "🕯",
+            "set_name": "BirthdayCollection",
+            "thumbs": [
+                {
+                    "_": "Thumbnail",
+                    "file_id": "AAMCAgADFQABaEkeRA9TMeotGb-_BGNDFVDDqfUAAqkxAAK8ZQABS7WpZkdK1m2PAAgBAAdtAAceBA",
+                    "file_unique_id": "AgADqTEAArxlAAFL",
+                    "width": 128,
+                    "height": 128,
+                    "file_size": 7916
+                }
+            ]
+        },
+        "first_sale_date": "2024-10-10 20:36:16",
+        "last_sale_date": "2025-06-09 23:53:54",
+        "price": 350,
+        "convert_price": 298,
+        "upgrade_price": 25,
+        "available_amount": 0,
+        "total_amount": 500000,
+        "is_limited": true,
+        "is_sold_out": true,
+        "is_birthday": true
+    }
+]

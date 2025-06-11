@@ -44,54 +44,61 @@ def categorize_gift_skips(gift_data: Dict[str, Any]) -> Dict[str, int]:
 
 async def detector(app: Client, callback: Callable) -> None:
     dot_count = 0
+    last_check_time = 0
 
     while True:
-        dot_count = (dot_count + 1) % 4
-        log_same_line(f'{t("console.gift_checking")}{"." * dot_count}')
-        time.sleep(0.2)
+        current_time = time.time()
+        
+        # Перевіряємо, чи минув інтервал з останньої перевірки
+        if current_time - last_check_time >= config.INTERVAL:
+            dot_count = (dot_count + 1) % 4
+            log_same_line(f'{t("console.gift_checking")}{"." * dot_count}')
+            
+            if not app.is_connected:
+                await app.start()
 
-        if not app.is_connected:
-            await app.start()
+            old_gifts = await load_old_gifts()
+            current_gifts, gift_ids = await get_current_gifts(app)
 
-        old_gifts = await load_old_gifts()
-        current_gifts, gift_ids = await get_current_gifts(app)
+            new_gifts = {
+                gift_id: gift_data for gift_id, gift_data in current_gifts.items()
+                if gift_id not in old_gifts
+            }
 
-        new_gifts = {
-            gift_id: gift_data for gift_id, gift_data in current_gifts.items()
-            if gift_id not in old_gifts
-        }
+            if new_gifts:
+                info(f'{t("console.new_gifts")} {len(new_gifts)}')
 
-        if new_gifts:
-            info(f'{t("console.new_gifts")} {len(new_gifts)}')
+                total_gifts = len(gift_ids)
+                skip_counts = {'sold_out_count': 0, 'non_limited_count': 0, 'non_upgradable_count': 0}
 
-            total_gifts = len(gift_ids)
-            skip_counts = {'sold_out_count': 0, 'non_limited_count': 0, 'non_upgradable_count': 0}
+                for gift_id, gift_data in new_gifts.items():
+                    gift_data["number"] = total_gifts - gift_ids.index(gift_id)
 
-            for gift_id, gift_data in new_gifts.items():
-                gift_data["number"] = total_gifts - gift_ids.index(gift_id)
+                    gift_skips = categorize_gift_skips(gift_data)
+                    for key, value in gift_skips.items():
+                        skip_counts[key] += value
 
-                gift_skips = categorize_gift_skips(gift_data)
-                for key, value in gift_skips.items():
-                    skip_counts[key] += value
+                sorted_gifts = sorted(new_gifts.items(), key=lambda x: x[1]["number"])
 
-            sorted_gifts = sorted(new_gifts.items(), key=lambda x: x[1]["number"])
+                if config.PRIORITIZE_LOW_SUPPLY:
+                    sorted_gifts = sorted(sorted_gifts, key=lambda x: (
+                        x[1].get("total_amount", float('inf')) if x[1].get("is_limited", False) else float('inf'),
+                        x[1]["number"]
+                    ))
 
-            if config.PRIORITIZE_LOW_SUPPLY:
-                sorted_gifts = sorted(sorted_gifts, key=lambda x: (
-                    x[1].get("total_amount", float('inf')) if x[1].get("is_limited", False) else float('inf'),
-                    x[1]["number"]
-                ))
+                for gift_id, gift_data in sorted_gifts:
+                    await callback(app, gift_data)
 
-            for gift_id, gift_data in sorted_gifts:
-                await callback(app, gift_data)
+                await send_summary_message(app, **skip_counts)
 
-            await send_summary_message(app, **skip_counts)
+                if any(skip_counts.values()):
+                    info(t("console.skip_summary",
+                           sold_out=skip_counts['sold_out_count'],
+                           non_limited=skip_counts['non_limited_count'],
+                           non_upgradable=skip_counts['non_upgradable_count']))
 
-            if any(skip_counts.values()):
-                info(t("console.skip_summary",
-                       sold_out=skip_counts['sold_out_count'],
-                       non_limited=skip_counts['non_limited_count'],
-                       non_upgradable=skip_counts['non_upgradable_count']))
-
-        await save_gifts(list(current_gifts.values()))
-        await asyncio.sleep(config.INTERVAL)
+            await save_gifts(list(current_gifts.values()))
+            last_check_time = current_time
+        
+        # Невелика затримка для анімації крапок
+        await asyncio.sleep(0.2)
