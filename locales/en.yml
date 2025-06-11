@@ -21,7 +21,6 @@ telegram:
 
     💡 Gifts outside the specified criteria will be automatically skipped
 
-    @GiftsTracker • @GiftMints | Made with ❤️ by @bohd4nx
   peer_id_error: |
     <b>❗Error while sending gift!</b>
     
